@@ -1,4 +1,4 @@
-dc.message.deathAndRank=Deaths: %1$s Platz: %2$s
+dc.message.deathAndRank=Tode: %1$s Platz: %2$s
 dc.message.death=Du bist %s mal gestorben.
 dc.message.rank=Du hast Platz %s auf dem Server.
 dc.command.resetAll=DC: Setze die Tode für alle Spieler zurück
